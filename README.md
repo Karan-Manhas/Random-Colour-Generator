@@ -1,2 +1,2 @@
 # Random-Colour-Generator
-Using simple javascript to generate random colours.
+Using basic javascript to generate random colours. Definitely a work in progress. Need some actual CSS for sure.
